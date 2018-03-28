@@ -1,0 +1,4 @@
+Location,Barcode,ItemNo,Description,SystemQty,CountQty,Variance
+ 0,aaa,,,,2,
+ 0 | 2,bbb,,,,2,
+ 1,ccc,,,,1,
